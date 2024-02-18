@@ -1,0 +1,6 @@
+D:\Programs\Labs\Fedorov\AbstructFabric\AbstructFabric\bin\Debug\AbstructFabric.exe
+D:\Programs\Labs\Fedorov\AbstructFabric\AbstructFabric\bin\Debug\AbstructFabric.pdb
+D:\Programs\Labs\Fedorov\AbstructFabric\AbstructFabric\obj\Debug\AbstructFabric.csproj.AssemblyReference.cache
+D:\Programs\Labs\Fedorov\AbstructFabric\AbstructFabric\obj\Debug\AbstructFabric.csproj.CoreCompileInputs.cache
+D:\Programs\Labs\Fedorov\AbstructFabric\AbstructFabric\obj\Debug\AbstructFabric.exe
+D:\Programs\Labs\Fedorov\AbstructFabric\AbstructFabric\obj\Debug\AbstructFabric.pdb
