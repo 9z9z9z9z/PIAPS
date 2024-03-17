@@ -1,0 +1,6 @@
+D:\Programs\Labs\Fedorov\Composit\Composit\bin\Debug\Composit.exe
+D:\Programs\Labs\Fedorov\Composit\Composit\bin\Debug\Composit.pdb
+D:\Programs\Labs\Fedorov\Composit\Composit\obj\Debug\Composit.csproj.AssemblyReference.cache
+D:\Programs\Labs\Fedorov\Composit\Composit\obj\Debug\Composit.csproj.CoreCompileInputs.cache
+D:\Programs\Labs\Fedorov\Composit\Composit\obj\Debug\Composit.exe
+D:\Programs\Labs\Fedorov\Composit\Composit\obj\Debug\Composit.pdb
